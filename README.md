@@ -8,7 +8,7 @@ I have been programming with python for around 5 years. As time passed, I used t
 
 My favorite project is Guessy, it was my final project in High School. I'm keeping my work projects on private 🔒.
 
-Currently I'm working on Arduino, ESP32, as ASMx86 Piano project and FastAPI using Python.
+Currently I'm working on Arduino, ESP32, as ASMx86 Piano project and FastAPI using Python. I'm also working on Raspberry Pi in my job.
 
 I believe that learning from public AI modules on the interent is our future, this will play a big role in the incoming decade.
 
