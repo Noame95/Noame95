@@ -14,5 +14,5 @@ I believe that learning from public AI modules on the interent is our future, th
 🤔 Fun Facts 😄:
   - I have a spirit of a bookworm inside of me, sometimes I let it out 📚.
   - My dog's name is Niko, a cute Shipoo 🐕.
-  - I love Reading One_Piece's Manga, Gaming, Working Out.
+  - I love Reading One Piece's Manga, Gaming, Working Out.
   - I was born on May 9th, 2007.
